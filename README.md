@@ -5,16 +5,9 @@ Meu nome é **Daniel de Oliveira**, atualmente sou estudante de Análise e Desen
 
 Sempre buscando conhecer mais e disposto a aprender novas tecnologias!
 
-<div>
-<img height="200" width="700" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" align="right"/>
-</br>
-</div>
-
-</br>
-
 <p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=5&title_color=262626&bg_color=e6e6e6&text_color=262626&border_color=5200cc)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=262626&text_color=262626&show_icons=true&hide=prs&bg_color=e6e6e6&icon_color=5200cc&border_color=5200cc)
+<img height="150" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=5&title_color=262626&bg_color=e6e6e6&text_color=262626&border_color=5200cc">
+<img height="150" width="500" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=262626&text_color=262626&show_icons=true&hide=prs&bg_color=e6e6e6&icon_color=5200cc&border_color=5200cc">
 </p>
 
 ## 🟣 Ferramentas e Linguagens
