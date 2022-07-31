@@ -6,7 +6,7 @@ Meu nome é **Daniel de Oliveira**, atualmente sou estudante de Análise e Desen
 Sempre buscando conhecer mais e disposto a aprender novas tecnologias!
 
 <p>
-<img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=5&title_color=262626&bg_color=e6e6e6&text_color=262626&border_color=5200cc">
+<img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=10&title_color=262626&bg_color=e6e6e6&text_color=262626&border_color=5200cc">
 <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=262626&text_color=262626&show_icons=true&hide=prs&bg_color=e6e6e6&icon_color=5200cc&border_color=5200cc">
 </p>
 
