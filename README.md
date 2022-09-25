@@ -1,15 +1,14 @@
-# Hey 👋🏽
 
-Meu nome é **Daniel de Oliveira**, atualmente sou desenvolvedor de software graduado em Análise e Desenvolvimento de Sistemas.
+# Olá 👋🏽
 
-Sempre buscando conhecer mais e disposto a aprender novas tecnologias!
+## Me chamo Daniel de Oliveira Santos e sou desenvolvedor de software!
 
-<p>
-<img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=10&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&border_color=none">
-<img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=c9d1d9&text_color=c9d1d9&show_icons=true&hide=prs&bg_color=0d1117&icon_color=c9d1d9&border_color=none">
-</p>
+<div align="left">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=10&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&border_color=none">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=c9d1d9&text_color=c9d1d9&show_icons=true&hide=prs&bg_color=0d1117&icon_color=c9d1d9&border_color=none">
+</div>
 
-## 🟣 Ferramentas e Linguagens
+## 🔸 Ferramentas e Linguagens
 <div style="display: inline_block">
 
   <img align="center" alt="Dani-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
@@ -22,5 +21,5 @@ Sempre buscando conhecer mais e disposto a aprender novas tecnologias!
   <img align="center" alt="Dani-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-## 🟣 Contato
+## 🔸 Contato
 <a href="https://www.linkedin.com/in/daniel-de-oliveira-santos-02b37b1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
