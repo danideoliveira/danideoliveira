@@ -4,8 +4,8 @@
 ## Me chamo Daniel de Oliveira Santos e sou desenvolvedor de software!
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=10&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&border_color=none">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=c9d1d9&text_color=c9d1d9&show_icons=true&hide=prs&bg_color=0d1117&icon_color=c9d1d9&border_color=none">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=10&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=c9d1d9&text_color=c9d1d9&show_icons=true&hide=prs&bg_color=0d1117&icon_color=c9d1d9&border_color=0d1117">
 </div>
 
 ## 🔸 Ferramentas e Linguagens
