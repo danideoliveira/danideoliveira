@@ -8,7 +8,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=danideoliveira&title_color=c9d1d9&text_color=c9d1d9&show_icons=true&hide=prs&bg_color=0d1117&icon_color=c9d1d9&border_color=0d1117">
 </div>
 
-## 🔸 Ferramentas e Linguagens
+## 🛠 Ferramentas e Linguagens
 <div style="display: inline_block">
 
   <img align="center" alt="Dani-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
@@ -21,5 +21,5 @@
   <img align="center" alt="Dani-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-## 🔸 Contato
+## 📞 Contato
 <a href="https://www.linkedin.com/in/daniel-de-oliveira-santos-02b37b1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
