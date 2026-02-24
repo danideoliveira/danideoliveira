@@ -23,5 +23,3 @@ Sou graduado em Análise e Desenvolvimento de Sistemas  e   como entusiasta da p
   <img align="center" alt="Dani-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" alt="Dani-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
-
-##   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danideoliveira&layout=compact&langs_count=10&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117">
